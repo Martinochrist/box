@@ -1,0 +1,15 @@
+#one{
+    width:800px;
+    background-color:blanchedalmond ;
+    display:inline-flex;
+    justify-content:space-between;
+    text-align: center;
+    
+}
+
+.boxes{
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+    
+}
